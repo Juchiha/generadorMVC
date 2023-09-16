@@ -1,0 +1,12 @@
+{
+	"name": "josegiron/myworky",
+    "description": "Proyecto para trabajar la data obtenia de las mediciones, reaizadas por la empresa MyWorky",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jose David Giron",
+            "email": "josegiron@outlook.es"
+        }
+    ],
+    "require": {}
+}
